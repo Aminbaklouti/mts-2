@@ -1,0 +1,15 @@
+/* HEADER */
+.main-header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+.header-logo{
+    width: 170px;
+}
+
+/* MAIN */
+.slider-area{
+    height: 100vh;
+}
