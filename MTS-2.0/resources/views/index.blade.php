@@ -14,7 +14,7 @@
                                 <h1 data-animation="fadeInLeft" data-delay=".5s">THE <a style="color:#4367ff;">METAVERSE</a> TUNISIAN SUMMIT</h1>
                                 <!-- Hero-btn -->
                                 <div class="slider-btns">
-                                    <a data-animation="fadeInLeft" data-delay="1.0s" href="" class="btn hero-btn">Learn More</a>
+                                    <a data-animation="fadeInLeft" data-delay="1.0s" href="" class="button button-contactForm boxed-btn">Learn More</a>
                                     <a data-animation="fadeInRight" data-delay="1.0s" class="popup-video video-btn"  href="https://www.youtube.com/watch?v=up68UAfH0d0">
                                         <i class="fas fa-play"></i></a>
                                     <p class="video-cap d-none d-sm-blcok" data-animation="fadeInRight" data-delay="1.0s">Story Video<br> Watch</p>
@@ -57,10 +57,11 @@
                     <div class="about-caption mb-50">
                         <!-- Section Tittle -->
                         <div class="section-tittle mb-35">
-                            <h2>The Biggest Digital Conference.</h2>
+                            <h2>The Biggest Metaverse Conference.</h2>
                         </div>
-                        <p>There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.</p>
-                        <p>There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in.</p>
+                        <p>The Metaverse Tunisian Summit (MTS) is a ﬁrst of its kind event in Tunisia and the MENA Region and it aims to advance the concept of the Metaverse</p>
+                        <p>With the same spirit, we are organizing the second edition of MTS this year. We are targeting 400+ students, engineers, and IT Leaders mainly in Tunisia and the neighbouring countries of the MENA Region. This year's edition is fully committed to building the future of Metaverse in Tunisia.</p> 
+                        <p>The program will include conferences and workshops led by experts in this field, as well as a hackathon in the Metaverse.</p>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
@@ -70,7 +71,7 @@
                                 </div>
                                 <div class="caption">
                                     <h5>Where</h5>
-                                    <p>New York, United States</p>
+                                    <p>Medina Hammamet Hotel - Nabeul - Tunisia</p>
                                 </div>
                             </div>
                         </div>
@@ -81,12 +82,12 @@
                                 </div>
                                 <div class="caption">
                                     <h5>When</h5>
-                                    <p>Jan. 21. 2021</p>
+                                    <p>25 - 27 November 2023 (3 days)</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <a href="#" class="btn mt-50">Get Your Ticket</a>
+                    <a href="/join" class="btn mt-50">Get Your Ticket</a>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <!-- about-img -->
@@ -110,7 +111,7 @@
                 <div class="col-lg-6 col-md-9">
                     <!-- Section Tittle -->
                     <div class="section-tittle section-tittle2 mb-50">
-                        <h2>The Most Importent Speakers.</h2>
+                        <h2>The Most Important Speakers.</h2>
                         <p>There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in.</p>
                         <a href="#" class="btn white-btn mt-30">View Spackert</a>
                     </div>
@@ -242,7 +243,6 @@
                                 <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Day - 01</a>
                                 <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Day - 02</a>
                                 <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false"> Day - 03 </a>
-                                <a class="nav-item nav-link" id="nav-dinner-tab" data-toggle="tab" href="#nav-dinner" role="tab" aria-controls="nav-dinner" aria-selected="false"> Day - 04 </a>
                             </div>
                         </nav>
                         <!--End Nav Button  -->
@@ -265,7 +265,7 @@
                                             <h2 class="mb-0">
                                                 <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                                     <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Snackes</p>
+                                                    <p>Check-in</p>
                                                 </a> 
                                             </h2>
                                         </div>
@@ -281,7 +281,7 @@
                                             <h2 class="mb-0">
                                                 <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                                     <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Opening conference</p>
+                                                    <p>Opening Ceremony</p>
                                                 </a>
                                             </h2>
                                         </div>
@@ -297,7 +297,39 @@
                                             <h2 class="mb-0">
                                                 <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                     <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Conference ending</p>
+                                                    <p>Conferences And Workshops</p>
+                                                </a>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single-four -->
+                                    <div class="card">
+                                        <div class="card-header" id="headingThree">
+                                            <h2 class="mb-0">
+                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                    <span>8:30 AM - 9:30 AM</span>
+                                                    <p>Hackathon Kick Off</p>
+                                                </a>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single-five -->
+                                    <div class="card">
+                                        <div class="card-header" id="headingThree">
+                                            <h2 class="mb-0">
+                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                    <span>8:30 AM - 9:30 AM</span>
+                                                    <p>Networking Activities</p>
                                                 </a>
                                             </h2>
                                         </div>
@@ -324,7 +356,7 @@
                                             <h2 class="mb-0">
                                                 <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
                                                     <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Snackes</p>
+                                                    <p>Conferences And Workshops</p>
                                                 </a> 
                                             </h2>
                                         </div>
@@ -340,7 +372,7 @@
                                             <h2 class="mb-0">
                                                 <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">
                                                     <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Opening conference</p>
+                                                    <p>Startup Fair</p>
                                                 </a>
                                             </h2>
                                         </div>
@@ -356,7 +388,39 @@
                                             <h2 class="mb-0">
                                                 <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
                                                     <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Conference ending</p>
+                                                    <p>Networking Activities</p>
+                                                </a>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseThree3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single-four -->
+                                    <div class="card">
+                                        <div class="card-header" id="headingThree">
+                                            <h2 class="mb-0">
+                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
+                                                    <span>8:30 AM - 9:30 AM</span>
+                                                    <p>End of Hackathon</p>
+                                                </a>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseThree3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single-five -->
+                                    <div class="card">
+                                        <div class="card-header" id="headingThree">
+                                            <h2 class="mb-0">
+                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
+                                                    <span>8:30 AM - 9:30 AM</span>
+                                                    <p>Night Party</p>
                                                 </a>
                                             </h2>
                                         </div>
@@ -383,7 +447,7 @@
                                                 <h2 class="mb-0">
                                                     <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo01" aria-expanded="false" aria-controls="collapseTwo01">
                                                         <span>8:30 AM - 9:30 AM</span>
-                                                        <p>Snackes</p>
+                                                        <p>Pitching Sessions</p>
                                                     </a> 
                                                 </h2>
                                             </div>
@@ -399,7 +463,7 @@
                                                 <h2 class="mb-0">
                                                     <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne02" aria-expanded="true" aria-controls="collapseOne02">
                                                         <span>8:30 AM - 9:30 AM</span>
-                                                        <p>Opening conference</p>
+                                                        <p>Closing Ceremony</p>
                                                     </a>
                                                 </h2>
                                             </div>
@@ -415,7 +479,7 @@
                                                 <h2 class="mb-0">
                                                     <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree03" aria-expanded="false" aria-controls="collapseThree03">
                                                         <span>8:30 AM - 9:30 AM</span>
-                                                        <p>Conference ending</p>
+                                                        <p>Winners Annoucement</p>
                                                     </a>
                                                 </h2>
                                             </div>
@@ -425,60 +489,33 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
-                </div>
-                <!-- Card Four -->
-                <div class="tab-pane fade" id="nav-dinner" role="tabpanel" aria-labelledby="nav-dinner">
-                    <div class="row">
-                            <div class="col-lg-11">
-                                <div class="accordion-wrapper">
-                                    <div class="accordion" id="accordionExample">
-                                        <!-- single-one -->
-                                        <div class="card">
-                                            <div class="card-header" id="headingTwo">
-                                                <h2 class="mb-0">
-                                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo10" aria-expanded="false" aria-controls="collapseTwo10">
-                                                        <span>8:30 AM - 9:30 AM</span>
-                                                        <p>Snackes</p>
-                                                    </a> 
-                                                </h2>
-                                            </div>
-                                            <div id="collapseTwo10" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                                <div class="card-body">
-                                                    There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- single-two -->
-                                        <div class="card">
-                                            <div class="card-header" id="headingOne">
-                                                <h2 class="mb-0">
-                                                    <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne20" aria-expanded="true" aria-controls="collapseOne20">
-                                                        <span>8:30 AM - 9:30 AM</span>
-                                                        <p>Opening conference</p>
-                                                    </a>
-                                                </h2>
-                                            </div>
-                                            <div id="collapseOne20" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                                <div class="card-body">
-                                                    There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- single-three -->
+                                        <!-- single-four -->
                                         <div class="card">
                                             <div class="card-header" id="headingThree">
                                                 <h2 class="mb-0">
-                                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree30" aria-expanded="false" aria-controls="collapseThree30">
+                                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree03" aria-expanded="false" aria-controls="collapseThree03">
                                                         <span>8:30 AM - 9:30 AM</span>
-                                                        <p>Conference ending</p>
+                                                        <p>Photobooth</p>
                                                     </a>
                                                 </h2>
                                             </div>
-                                            <div id="collapseThree30" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                            <div id="collapseThree03" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                                <div class="card-body">
+                                                    There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- single-five -->
+                                        <div class="card">
+                                            <div class="card-header" id="headingThree">
+                                                <h2 class="mb-0">
+                                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree03" aria-expanded="false" aria-controls="collapseThree03">
+                                                        <span>8:30 AM - 9:30 AM</span>
+                                                        <p>Check-out</p>
+                                                    </a>
+                                                </h2>
+                                            </div>
+                                            <div id="collapseThree03" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                                 <div class="card-body">
                                                     There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
                                                 </div>
@@ -739,7 +776,7 @@
         scale: 1.00,
         scaleMobile: 1.00,
         //Customise the colors
-        color: 0xf8234a,
+        color: 0x4624aa,
         backgroundColor: 0x060c22,
         //Customise the dots
         points: 11,

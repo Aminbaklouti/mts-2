@@ -9,7 +9,7 @@
                              <div class="footer-tittle">
                                  <h4>About Us</h4>
                                  <div class="footer-pera">
-                                     <p>Heaven frucvitful doesn't cover lesser dvsays appear creeping seasons so behold.</p>
+                                     <p>The Metaverse Tunisian Summit will tackle an emerging technology: Augmented Reality and XR technologies. We are trying to Shine the light and concept the MetaVerse Eco-system in Tunisia and Build a Strong community.</p>
                                 </div>
                              </div>
                          </div>
@@ -21,10 +21,10 @@
                                 <h4>Contact Info</h4>
                                 <ul>
                                     <li>
-                                        <p>Address :Your address goes here, your demo address.</p>
+                                        <p>Address :Hammamet, Tunisia.</p>
                                     </li>
-                                    <li><a href="#">Phone : +8880 44338899</a></li>
-                                    <li><a href="#">Email : info@colorlib.com</a></li>
+                                    <li><a href="#">Phone : 00 000 000</a></li>
+                                    <li><a href="#">Email : metaversetunisiasummit@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -48,7 +48,7 @@
                             <div class="footer-tittle">
                                 <h4>Newsletter</h4>
                                 <div class="footer-pera footer-pera2">
-                                 <p>Heaven fruitful doesn't over lesser in days. Appear creeping.</p>
+                                 <p>Subscribe to our MTS newsletter to not miss any updates.</p>
                              </div>
                              <!-- Form -->
                              <div class="footer-form" >
@@ -75,7 +75,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <!-- logo -->
                         <div class="footer-logo mb-20">
-                        <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                        <a href="index.html"><img class="header-logo" src="assets/img/logo/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
@@ -113,10 +113,8 @@
                          </div>
                          <div class="col-xl-2 col-lg-4">
                              <div class="footer-social f-right">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fas fa-globe"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
+                                <a href="https://www.linkedin.com/company/metaverse-tunisian-summit/"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.facebook.com/people/Metaverse-Tunisian-Summit/100086253674854/"><i class="fab fa-facebook-f"></i></a>
                              </div>
                          </div>
                      </div>
@@ -168,6 +166,8 @@
     <!-- Jquery Plugins, main Jquery -->	
     <script src="./assets/js/plugins.js"></script>
     <script src="./assets/js/main.js"></script>
+
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
 
     </body>
 </html>

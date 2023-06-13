@@ -54,16 +54,16 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="spakers.html">Spakers</a></li>
-                                        <li><a href="schedule.html">Schedule</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="/">About</a></li>
+                                        <li><a href="/">Speakers</a></li>
+                                        <li><a href="/">Schedule</a></li>
+                                        <li><a href="/">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
                             <div class="header-right-btn f-right d-none d-lg-block ml-30">
-                                <a href="#" class="btn header-btn">Get Your Ticket</a>
+                                <a href="/join" class="btn header-btn">Get Your Ticket</a>
                             </div>
                         </div>
                     </div>   
