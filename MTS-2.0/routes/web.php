@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Auth\LoginController;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,3 +23,10 @@ Route::get('/join', function () {
 Route::get('/login', function () {
     return view('login');
 });
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+
+Route::post('/login', 'LoginController@login');
+Route::post('/register', 'Auth\RegisterController@register');

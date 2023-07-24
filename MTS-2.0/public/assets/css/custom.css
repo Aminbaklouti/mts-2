@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+}
+
 /* HEADER */
 .main-header{
     position: fixed;
@@ -13,6 +17,9 @@
 .slider-area{
     height: 100vh;
 }
+#navigation li a{
+  cursor: pointer;
+} 
 
 /* JOIN */
 .join-submit-btn{

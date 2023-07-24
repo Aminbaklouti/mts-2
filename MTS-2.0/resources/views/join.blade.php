@@ -28,19 +28,24 @@
                 </div>
                 <div class="col-lg-8">
                     <form action="#">
-                        <div class="mt-10">
+                        <div class="input-group-icon mt-10">
+                            <div class="icon"><i class="fa fa-user" aria-hidden="true"></i></div>
                             <input type="text" name="first_name" placeholder="First Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'First Name'" required="" class="single-input">
                         </div>
-                        <div class="mt-10">
+                        <div class="input-group-icon mt-10">
+                            <div class="icon"><i class="fa fa-user" aria-hidden="true"></i></div>
                             <input type="text" name="last_name" placeholder="Last Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Last Name'" required="" class="single-input">
                         </div>
-                        <div class="mt-10">
+                        <div class="input-group-icon mt-10">
+                            <div class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></div>
                             <input type="email" name="email" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required="" class="single-input">
                         </div>
-                        <div class="mt-10">
+                        <div class="input-group-icon mt-10">
+                            <div class="icon"><i class="fa fa-lock" aria-hidden="true"></i></div>
                             <input type="password" name="password" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'" required="" class="single-input">
                         </div>
-                        <div class="mt-10">
+                        <div class="input-group-icon mt-10">
+                            <div class="icon"><i class="fa fa-phone" aria-hidden="true"></i></div>
                             <input type="number" name="phone" placeholder="Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'" required="" class="single-input">
                         </div>
 
