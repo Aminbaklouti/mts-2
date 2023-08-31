@@ -32,3 +32,5 @@ function scrollToContact(){
         behavior: "smooth",
     });
 }
+
+$('.counter').countUp();

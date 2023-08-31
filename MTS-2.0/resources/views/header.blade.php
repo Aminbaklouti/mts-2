@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="assets/css/nice-select.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/schedule.css">
 </head>
 
 <body>
@@ -65,7 +66,7 @@
                                     </nav>
                                 </div>
                                 <div class="header-right-btn f-right d-none d-lg-block ml-30">
-                                    <a href="/join" class="btn header-btn">Get Your Ticket</a>
+                                    <a href="/assets/sponso.pdf" class="btn header-btn">Collaborate with us</a>
                                 </div>
                             </div>
                         </div>

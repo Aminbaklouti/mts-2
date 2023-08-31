@@ -69,7 +69,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
                             <div class="single-caption mb-20">
                                 <div class="caption-icon">
-                                    <spline-viewer style="width: 133px;height: 83px;" loading-anim url="https://prod.spline.design/VN7yUU0gwMikjYAt/scene.splinecode"></spline-viewer>
+                                    <span class="flaticon-communications-1"></span>
                                 </div>
                                 <div class="caption">
                                     <h5>Where</h5>
@@ -80,7 +80,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
                             <div class="single-caption mb-20">
                                 <div class="caption-icon">
-                                <spline-viewer style="width: 133px;height: 83px;" url="https://prod.spline.design/knkq2KNn4BcVz8ez/scene.splinecode"></spline-viewer>
+                                    <span class="flaticon-education"></span>
                                 </div>
                                 <div class="caption">
                                     <h5>When</h5>
@@ -89,25 +89,51 @@
                             </div>
                         </div>
                     </div>
-                    <a href="/join" class="btn mt-50">Get Your Ticket</a>
+                    <a href="/assets/sponso.pdf" class="btn mt-50">Collaborate with us</a>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <!-- about-img -->
                     <div class="about-img ">
-                        <div class="about-font-img d-none d-lg-block">
-                            <img src="assets/img/gallery/about2.png" alt="">
+                        <div class="about-font-img d-none d-lg-block hover-img" style="bottom: 441px;left: 427px;">
+                            <img src="assets/img/gallery/vr_game.jpg" style="width: 300px;">
                         </div>
                         <div class="about-back-img ">
-                            <img src="assets/img/gallery/about1.png" alt="">
+                            <img src="assets/img/gallery/2guys_vr.jpg" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
+
     <section class="about-low-area">
-        <spline-viewer url="https://prod.spline.design/gVPRMmmTwcs0KbfF/scene.splinecode"></spline-viewer>
+        <spline-viewer loading-anim url="https://prod.spline.design/Ox87bYN7ylrNCswp/scene.splinecode"></spline-viewer>
+    </section>
+
+    <section class="work-company section-padding" style="background: #fff;">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-12 col-md-12">
+                    <div class="section-tittle section-tittle2 mb-50">
+                        <h2 style="text-align: center;color: black;">The Organizers</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-6 col-md-6 organizer-container">
+                    <div class="section-tittle section-tittle2 mb-50">
+                        <img src="assets/img/partners/3main-logo.webp" alt="logo" class="organizers-img">
+                    </div>
+                    <h5 class="organizer-text">The Institute of Electrical and Electronics Engineers (IEEE) SUP’COM student branch was founded in 2011 by 3 students. It now has more that 150 members and 4 chapters, hence ranked 3rd in IEEE Tunisia Section.</h5>
+                </div>
+                <div class="col-lg-6 col-md-6 organizer-container">
+                    <div class="section-tittle section-tittle2 mb-50">
+                        <img src="assets/img/partners/4ieeeSMU.png" alt="logo" class="organizers-img">
+                    </div>
+                    <h5 class="organizer-text">The Institute of Electrical and Electronics Engineers (IEEE) at SMU was founded in 2020 by students from MedTech. Its objective is to promote knowledge about technologies and telecommunications in universities.</h5>
+                </div>
+            </div>
+        </div>
     </section>
     <!-- About Law End-->
     <!--? Brand Area Start -->
@@ -117,9 +143,9 @@
                 <div class="col-lg-6 col-md-9">
                     <!-- Section Tittle -->
                     <div class="section-tittle section-tittle2 mb-50">
-                        <h2>The Most Important Speakers.</h2>
+                        <h2>Our Most Important Speakers.</h2>
                         <p>Experts in the field.</p>
-                        <a href="#" class="btn white-btn mt-30">Learn More</a>
+                        <a href="/assets/sponso.pdf" class="btn white-btn mt-30">Learn More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
@@ -182,6 +208,66 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-team mb-30">
+                        <div class="team-img">
+                            <img src="assets/img/gallery/hatem_azaiez.jpeg" alt="">
+                            <!-- Blog Social -->
+                            <ul class="team-social">
+                                <li><a href="https://www.linkedin.com/in/hatem-azaiez-1327a25a/"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="team-caption">
+                            <h3><a href="#">Hatem Azaiez</a></h3>
+                            <p> Smart contract Auditor | Blockchain consultant | web 3 developer </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-team mb-30">
+                        <div class="team-img">
+                            <img src="assets/img/gallery/noah.jpeg" alt="">
+                            <!-- Blog Social -->
+                            <ul class="team-social">
+                                <li><a href="https://www.linkedin.com/in/njelich/"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="team-caption">
+                            <h3><a href="#">Noah J.</a></h3>
+                            <p> Solidity & Rust • Lead Security Auditor • Fullstack Developer </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-team mb-30">
+                        <div class="team-img">
+                            <img src="assets/img/gallery/morten.jpeg" alt="">
+                            <!-- Blog Social -->
+                            <ul class="team-social">
+                                <li><a href="https://www.linkedin.com/in/mortenmeyerhoff/"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="team-caption">
+                            <h3><a href="#">Morten Meyerhoff Nielsen</a></h3>
+                            <p> Academic Fellow at United Nations University </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-team mb-30">
+                        <div class="team-img">
+                            <img src="assets/img/gallery/soumaya.jpg" alt="">
+                            <!-- Blog Social -->
+                            <ul class="team-social">
+                                <li><a href="https://www.linkedin.com/in/soumaya-ben-dhaou-phd-54216b3/"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="team-caption">
+                            <h3><a href="#">Soumaya Ben Dhaou</a></h3>
+                            <p> Research Coordinator - United Nations University </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -199,299 +285,100 @@
                 </div>
             </div>
             <div class="row ">
-                <div class="col-lg-11">
-                    <div class="properties__button mb-40">
-                        <!--Nav Button  -->
-                        <nav>
-                            <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Day - 01</a>
-                                <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Day - 02</a>
-                                <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false"> Day - 03 </a>
-                            </div>
-                        </nav>
-                        <!--End Nav Button  -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <!-- Nav Card -->
-            <div class="tab-content" id="nav-tabContent">
-                <!-- card one -->
-                <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                    <div class="row">
-                        <div class="col-lg-11">
-                            <div class="accordion-wrapper">
-                                <div class="accordion" id="accordionExample">
-                                    <!-- single-one -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingTwo">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Check-in</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
+                <div class="col-lg-4">
+                    <div class="app">
+                        <div class="app_inner">
+                            <!-- Loop through the @tabs array -->
+                            <!-- First iteration -->
+                            <input type="radio" id="tab-1" name="buttons" checked="">
+                            <label for="tab-1">
+                                <div class="app_inner__tab">
+                                    <h2>
+                                        <i class="icon ion-android-alarm-clock"></i>
+                                        8am - 10am
+                                    </h2>
+                                    <div class="tab_left">
+                                        <i class="icon big ion-android-color-palette"></i>
+                                        <div class="tab_left__image">
+                                            <i class="icon ion-android-color-palette"></i>
                                         </div>
                                     </div>
-                                    <!-- single-two -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingOne">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Opening Ceremony</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-three -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Conferences And Workshops</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-four -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Hackathon Kick Off</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-five -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Networking Activities</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
+                                    <div class="tab_right">
+                                        <h3>Check in</h3>
+                                        <p>Cheking in to the hotel</p>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Card two -->
-                <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-                    <div class="row">
-                        <div class="col-lg-11">
-                            <div class="accordion-wrapper">
-                                <div class="accordion" id="accordionExample">
-                                    <!-- single-one -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingTwo">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Conferences And Workshops</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseTwo2" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
+                            </label>
+                            <!-- Second iteration -->
+                            <input type="radio" id="tab-2" name="buttons">
+                            <label for="tab-2">
+                                <div class="app_inner__tab">
+                                    <h2>
+                                        <i class="icon ion-android-alarm-clock"></i>
+                                        10am - 12am
+                                    </h2>
+                                    <div class="tab_left">
+                                        <i class="icon big ion-music-note"></i>
+                                        <div class="tab_left__image">
+                                            <i class="icon ion-music-note"></i>
                                         </div>
                                     </div>
-                                    <!-- single-two -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingOne">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Startup Fair</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseOne1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-three -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Networking Activities</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-four -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>End of Hackathon</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-five -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Night Party</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
+                                    <div class="tab_right">
+                                        <h3>Arctic Monkeys Live</h3>
+                                        <h4>Monday - Wednesday</h4>
+                                        <p>Music for your lug holes</p>
+                                        <button>More information</button>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Card three -->
-                <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                    <div class="row">
-                        <div class="col-lg-11">
-                            <div class="accordion-wrapper">
-                                <div class="accordion" id="accordionExample">
-                                    <!-- single-one -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingTwo">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo01" aria-expanded="false" aria-controls="collapseTwo01">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Pitching Sessions</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseTwo01" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
+                            </label>
+                            <!-- Third iteration -->
+                            <input type="radio" id="tab-3" name="buttons">
+                            <label for="tab-3">
+                                <div class="app_inner__tab">
+                                    <h2>
+                                        <i class="icon ion-android-alarm-clock"></i>
+                                        12am - 4pm
+                                    </h2>
+                                    <div class="tab_left">
+                                        <i class="icon big ion-android-microphone"></i>
+                                        <div class="tab_left__image">
+                                            <i class="icon ion-android-microphone"></i>
                                         </div>
                                     </div>
-                                    <!-- single-two -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingOne">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne02" aria-expanded="true" aria-controls="collapseOne02">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Closing Ceremony</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseOne02" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-three -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree03" aria-expanded="false" aria-controls="collapseThree03">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Winners Annoucement</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree03" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-four -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree03" aria-expanded="false" aria-controls="collapseThree03">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Photobooth</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree03" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-five -->
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h2 class="mb-0">
-                                                <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree03" aria-expanded="false" aria-controls="collapseThree03">
-                                                    <span>8:30 AM - 9:30 AM</span>
-                                                    <p>Check-out</p>
-                                                </a>
-                                            </h2>
-                                        </div>
-                                        <div id="collapseThree03" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                There arge many variations ohf passages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.rere arge many variations ohf passages of sorem gpsum ilable.
-                                            </div>
-                                        </div>
+                                    <div class="tab_right">
+                                        <h3>Steven Fry podcast</h3>
+                                        <h4>Staurday - Sunday</h4>
+                                        <p>Steven Fry says words</p>
+                                        <button>More information</button>
                                     </div>
                                 </div>
-                            </div>
+                            </label>
+                            <!-- Fourth iteration -->
+                            <input type="radio" id="tab-4" name="buttons">
+                            <label for="tab-4">
+                                <div class="app_inner__tab">
+                                    <h2>
+                                        <i class="icon ion-android-alarm-clock"></i>
+                                        4pm - 8pm
+                                    </h2>
+                                    <div class="tab_left">
+                                        <i class="icon big ion-android-bar"></i>
+                                        <div class="tab_left__image">
+                                            <i class="icon ion-android-bar"></i>
+                                        </div>
+                                    </div>
+                                    <div class="tab_right">
+                                        <h3>Massive event</h3>
+                                        <h4>Monday - Friday</h4>
+                                        <p>Some kind of music festival</p>
+                                        <button>More information</button>
+                                    </div>
+                                </div>
+                            </label>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- End Nav Card -->
         </div>
     </section>
     <!-- accordion End -->
@@ -545,74 +432,80 @@
         </div>
     </div>
     <!-- gallery Products End -->
-    <!--? Pricing Card Start -->
-    <section class="pricing-card-area section-padding2">
+    <section class="about-low-area section-padding2 stats-section">
         <div class="container">
-            <!-- Section Tittle -->
-            <div class="row justify-content-center">
-                <div class="col-lg-5 col-md-8">
-                    <div class="section-tittle text-center mb-100">
-                        <h2>Program Pricing</h2>
-                        <p>There arge many variations ohf passages of sorem gp ilable, but the majority have ssorem gp iluffe.</p>
-                    </div>
-                </div>
-            </div>
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-card text-center mb-30">
-                        <div class="card-top">
-                            <span>Day - 1</span>
-                            <h4>$ 05.00</h4>
+                <div class="col-lg-6 col-md-6 previous-container">
+                    <div class="about-caption mb-50">
+                        <!-- Section Tittle -->
+                        <div class="section-tittle mb-35">
+                            <h2>First edition's Success in numbers.</h2>
                         </div>
-                        <div class="card-bottom">
-                            <ul>
-                                <li>Increase traffic 50%</li>
-                                <li>E-mail support</li>
-                                <li>10 Free Optimization</li>
-                                <li>24/7 support</li>
-                            </ul>
-                            <a href="services.html" class="black-btn">View Spackert</a>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-10">
+                            <div class="single-caption mb-20 stat-container">
+                                <div class="caption-icon">
+                                    <img class="stat-icon" src="assets/img/icons/users.png"></img>
+                                </div>
+                                <div class="stat-text">
+                                    <li><a class="counter">300</a>+</li>
+                                    <p>Attendance</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-10">
+                            <div class="single-caption mb-20 stat-container">
+                                <div class="caption-icon">
+                                    <img class="stat-icon" src="assets/img/icons/microphone.png"></img>
+                                </div>
+                                <div class="stat-text">
+                                    <a class="counter">13</a>
+                                    <p>Speakers</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-10">
+                            <div class="single-caption mb-20 stat-container">
+                                <div class="caption-icon">
+                                    <img class="stat-icon" src="assets/img/icons/edit.png"></img>
+                                </div>
+                                <div class="stat-text">
+                                    <a class="counter">6</a>
+                                    <p>Keynotes</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-10">
+                            <div class="single-caption mb-20 stat-container">
+                                <div class="caption-icon">
+                                    <img class="stat-icon" src="assets/img/icons/gears.png"></img>
+                                </div>
+                                <div class="stat-text">
+                                    <a class="counter">9</a>
+                                    <p>Technical Workshops</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-card active text-center mb-30">
-                        <div class="card-top">
-                            <span>Day - 1,2,3</span>
-                            <h4>$ 08.00</h4>
+                <div class="col-lg-6 col-md-12">
+                    <!-- about-img -->
+                    <div class="about-img ">
+                        <div class="about-font-img d-none d-lg-block hover-img" style="bottom: -110px;">
+                            <img src="assets/img/gallery/audience_crop.jpg" style="width: 300px;">
                         </div>
-                        <div class="card-bottom">
-                            <ul>
-                                <li>Increase traffic 50%</li>
-                                <li>E-mail support</li>
-                                <li>10 Free Optimization</li>
-                                <li>24/7 support</li>
-                            </ul>
-                            <a href="services.html" class="black-btn">View Spackert</a>
+                        <div class="about-font-img d-none d-lg-block hover-img" style="bottom: 230px;left: 451px;">
+                            <img src="assets/img/gallery/guy_vr.jpg" style="width: 300px;">
                         </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-card text-center mb-30">
-                        <div class="card-top">
-                            <span>Day - 1,2</span>
-                            <h4>$ 06.00</h4>
-                        </div>
-                        <div class="card-bottom">
-                            <ul>
-                                <li>Increase traffic 50%</li>
-                                <li>E-mail support</li>
-                                <li>10 Free Optimization</li>
-                                <li>24/7 support</li>
-                            </ul>
-                            <a href="services.html" class="black-btn">View Spackert</a>
+                        <div class="about-back-img ">
+                            <img src="assets/img/gallery/firas_presenting.jpg" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Pricing Card End -->
     <!--? Brand Area Start-->
     <section class="work-company section-padding30" style="background: #2e0e8c;">
         <div class="container">
@@ -620,43 +513,20 @@
                 <div class="col-lg-5 col-md-8">
                     <!-- Section Tittle -->
                     <div class="section-tittle section-tittle2 mb-50">
-                        <h2>Our Top Genaral Sponsors.</h2>
-                        <p>There arge many variations ohf passages of sorem gp ilable, but the majority have ssorem gp iluffe.</p>
+                        <h2>Our Partners.</h2>
+                        <p>Partners and sponsors who make this event possible.</p>
                     </div>
                 </div>
                 <div class="col-lg-7">
                     <div class="logo-area">
                         <div class="row">
+                            @foreach($images as $image)
                             <div class="col-lg-4 col-md-4 col-sm-6">
                                 <div class="single-logo mb-30">
-                                    <img src="assets/img/gallery/cisco_brand.png" alt="">
+                                    <img src="{{ asset('assets/img/partners/' . $image->getFilename()) }}" alt="{{ $image->getFilename() }}">
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="single-logo mb-30">
-                                    <img src="assets/img/gallery/cisco_brand2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="single-logo mb-30">
-                                    <img src="assets/img/gallery/cisco_brand3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="single-logo mb-30">
-                                    <img src="assets/img/gallery/cisco_brand4.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="single-logo mb-30">
-                                    <img src="assets/img/gallery/cisco_brand5.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="single-logo mb-30">
-                                    <img src="assets/img/gallery/cisco_brand6.png" alt="">
-                                </div>
-                            </div>
+                            @endforeach
                         </div>
                     </div>
                 </div>
@@ -756,5 +626,7 @@
         spacing: 14
     })
 </script>
+
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
 @include('footer')
