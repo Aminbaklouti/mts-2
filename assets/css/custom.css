@@ -1,0 +1,40 @@
+html{
+  scroll-behavior: smooth;
+}
+
+/* HEADER */
+.main-header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+.header-logo{
+    width: 170px;
+}
+
+/* MAIN */
+.slider-area{
+    height: 100vh;
+}
+#navigation li a{
+  cursor: pointer;
+} 
+
+/* JOIN */
+.join-submit-btn{
+    float: right;
+}
+
+/* Removing arrows and spinners from input */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
